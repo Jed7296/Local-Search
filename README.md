@@ -1,5 +1,7 @@
-# Local-Search
-Local Search project done for AI class
+# Projects
+
+
+# Local Search
 
 Simple program showcasing a gradient ascent hill climbing alogrithm.
 
