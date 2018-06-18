@@ -12,3 +12,7 @@ the input files should contain only a 3 dimensional graph as a function:
       def function(x,y)
           return x+y
 And the other 4 variables represent the range of the search you wish to run.
+  
+# TF-IDF
+
+
