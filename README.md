@@ -14,5 +14,13 @@ the input files should contain only a 3 dimensional graph as a function:
 And the other 4 variables represent the range of the search you wish to run.
   
 # TF-IDF
+Simple Program showcasing Term Frequency - Inverse Document Frequency
+
+- External Packages
+    pandas 
+
+To Run:
+Run the command python TFIDF.py <filename>
+I have included articles1.csv that will be easy to use as an example
 
 
